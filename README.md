@@ -22,3 +22,11 @@ This project uses **Machine Learning** and **Feature Engineering** techniques to
 ## 📊 Output
 Final model tested using Linear Regression & Decision Tree with RMSE comparison.
 
+
+## 📁 Folder Structure
+
+project-root/
+├── data/
+│   └── housing.csv
+├── house_price_prediction.ipynb
+└── README.md
